@@ -250,6 +250,7 @@ testkube-api:
     accessKeyId: "minio"
     accessKey: "minio123"
     location: ""
+    region: ""
     token: ""
     bucket: "testkube-artifacts"
     SSL: false
